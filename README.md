@@ -15,7 +15,7 @@ The default I2C pins on the xiao have been remapped so that the clock and data p
 |GND|GND|GND|
 |3V3|VIN|VIN|
 |D10 (P1.15)|SDA|SDA|
-|D10 (P1.14)|SCL|SCL|
+|D9 (P1.14)|SCL|SCL|
 
 ## Build
 
